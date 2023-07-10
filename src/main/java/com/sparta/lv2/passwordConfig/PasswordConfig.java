@@ -1,4 +1,4 @@
-package com.sparta.lv2.PasswordConfig;
+package com.sparta.lv2.passwordConfig;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
